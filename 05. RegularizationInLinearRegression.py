@@ -52,4 +52,3 @@ rmse = np.sqrt(mean_squared_error(y_test, test_predictions))
 
 coeff = ridgeCV_model.coef_
 
-from sklearn.
