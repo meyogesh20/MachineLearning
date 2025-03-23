@@ -1,2 +1,2 @@
 # MachineLearning
-ML Repo
+Machine Learning Algorithms
