@@ -51,4 +51,3 @@ mae = mean_absolute_error(y_test, test_predictions)
 rmse = np.sqrt(mean_squared_error(y_test, test_predictions))
 
 coeff = ridgeCV_model.coef_
-
